@@ -88,7 +88,7 @@ Si desea contribuir al proyecto:
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - vea el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está bajo la Licencia CC.
 
 ## 🤝 Contacto
 
