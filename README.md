@@ -62,7 +62,7 @@ La aplicación espera archivos CSV con el siguiente formato:
 ## 🛠️ Uso
 
 1. Inicie la aplicación
-2. Cargue un archivo CSV con los datos de los sensores
+2. Cargue un archivo CSV con los datos de los sensores obtenidos de la plataforma grafana, combinando los datos
 3. Utilice las diferentes pestañas para:
    - Visualizar los datos en diferentes tipos de gráficos
    - Ver estadísticas descriptivas
