@@ -2,7 +2,7 @@
 
 # 📊 Análisis de Sensores - Mi Ciudad
 
-Una aplicación web desarrollada con Streamlit para visualizar y analizar datos de sensores ESP32 ubicados en la Universidad EAFIT, Medellín.
+Una aplicación web desarrollada con Streamlit para visualizar y analizar datos de sensores de temperatura y humedad ubicados en la Universidad EAFIT, Medellín.
 
 ## 📋 Descripción
 
